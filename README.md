@@ -33,3 +33,11 @@ It focuses on education, scam prevention, and accessibility for elderly and low 
 - **AI & Automation**: n8n, VLM (OpenAI / Gemini)  
 
 ---
+
+## To see the prototype
+https://github.com/user-attachments/assets/cc4bec85-51fb-4ef7-9d06-c7c1d0d3cd8f
+
+
+
+
+
